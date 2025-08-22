@@ -29,32 +29,6 @@ AI-Checkers-Player/
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/arshiya-salehi/AI-Checkers-Player.git
-cd AI-Checkers-Player/Tools
-```
-
-### 2. Install Requirements
-This project runs on **Python 3.8+**.  
-If there are dependencies (e.g., `pygame`), install them with:
-```bash
-pip install -r requirements.txt
-```
-
-*(If no requirements file is present, the base Python standard library may be enough.)*
-
-### 3. Run the Game / AI Match
-```bash
-python AI_Runner.py
-```
-
-You’ll be prompted to select which AIs to play (e.g., RandomAI vs AverageAI).
-
----
-
 ## 🧠 Custom AI Development
 
 You can implement your own AI by creating a new class inside `Tools/Sample_AIs/`.  
